@@ -27,7 +27,7 @@ git checkout -b branchname: start a new branch
 git branch -a: check all branch 
 git checkout branchname: check to one branch
 git merge branchanme: merge branch 
-
+git branch -d branchname
 
 
 
