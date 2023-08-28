@@ -22,7 +22,7 @@ git revert commitid: remove change on commitid
 git reset commitid: reset the file to one commitid 
 
 
-##link to github 
+## link to github 
 
 git add remote : add remote repo
 
@@ -36,7 +36,8 @@ git clone repo/path/: clone oneline repo
 
 git remote rm origin: remove origin repo
 
-##branch
+## branch
+
 git checkout -b branchname: start a new branch
 
 git branch -a: check all branch 
